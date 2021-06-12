@@ -21,3 +21,6 @@ class Player(models.Model):
         related_name='players',
         on_delete=models.deletion.CASCADE
     )
+
+    class Meta:
+        ordering = ('name',)
