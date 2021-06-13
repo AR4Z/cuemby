@@ -6,3 +6,6 @@ migrate:
 
 populate_db:
 	docker exec -it cuemby ./manage.py populate_db
+
+load_fixtures:
+	docker exec -it cuemby ./manage.py loadfixtures 
