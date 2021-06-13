@@ -1,10 +1,11 @@
 from rest_framework import generics, response
 
-from fifa import serializers, models, pagination
+from fifa import serializers, models, pagination, permissions
 
 
 class TeamAPIView(generics.GenericAPIView):
     pagination_class = pagination.CustomPagination
+    permission_classes = (permissions.CustomPermission, )
 
     def post(self, request):
         params = serializers.TeamParamsSerializer(data=request.data)
@@ -23,6 +24,7 @@ class TeamAPIView(generics.GenericAPIView):
 
 class PlayerAPIView(generics.GenericAPIView):
     pagination_class = pagination.CustomPagination
+    permission_classes = (permissions.CustomPermission, )
 
     def get(self, request):
         params = serializers.PlayerParamsSerializer(data=request.query_params)
