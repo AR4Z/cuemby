@@ -1,0 +1,4461 @@
+[
+{
+    "model": "fifa.team",
+    "pk": 1,
+    "fields": {
+        "name": "Juventus"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 2,
+    "fields": {
+        "name": "Real Madrid"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 3,
+    "fields": {
+        "name": "FC Barcelona"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 4,
+    "fields": {
+        "name": "Icons"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 5,
+    "fields": {
+        "name": "Paris Saint-Germain"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 6,
+    "fields": {
+        "name": "Chelsea"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 7,
+    "fields": {
+        "name": "FC Bayern München"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 8,
+    "fields": {
+        "name": "Borussia Dortmund"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 9,
+    "fields": {
+        "name": "Manchester City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 10,
+    "fields": {
+        "name": "Manchester United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 11,
+    "fields": {
+        "name": "Liverpool"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 12,
+    "fields": {
+        "name": "Atlético Madrid"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 13,
+    "fields": {
+        "name": "Sampdoria"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 14,
+    "fields": {
+        "name": "Tottenham Hotspur"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 15,
+    "fields": {
+        "name": "Arsenal"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 16,
+    "fields": {
+        "name": "Napoli"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 17,
+    "fields": {
+        "name": "Ajax"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 18,
+    "fields": {
+        "name": "LOSC Lille"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 19,
+    "fields": {
+        "name": "Sagan Tosu"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 20,
+    "fields": {
+        "name": "LA Galaxy"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 21,
+    "fields": {
+        "name": "Olympique Lyonnais"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 22,
+    "fields": {
+        "name": "Eintracht Frankfurt"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 23,
+    "fields": {
+        "name": "Bayer 04 Leverkusen"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 24,
+    "fields": {
+        "name": "Atalanta"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 25,
+    "fields": {
+        "name": "Los Angeles Football Club"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 26,
+    "fields": {
+        "name": "Borussia Mönchengladbach"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 27,
+    "fields": {
+        "name": "RB Leipzig"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 28,
+    "fields": {
+        "name": "Milan"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 29,
+    "fields": {
+        "name": "Vissel Kobe"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 30,
+    "fields": {
+        "name": "Feyenoord"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 31,
+    "fields": {
+        "name": "Inter"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 32,
+    "fields": {
+        "name": "RC Celta"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 33,
+    "fields": {
+        "name": "Sevilla FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 34,
+    "fields": {
+        "name": "Club León"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 35,
+    "fields": {
+        "name": "RC Strasbourg Alsace"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 36,
+    "fields": {
+        "name": "Sporting CP"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 37,
+    "fields": {
+        "name": "SL Benfica"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 38,
+    "fields": {
+        "name": "FC Porto"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 39,
+    "fields": {
+        "name": "Galatasaray SK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 40,
+    "fields": {
+        "name": "Lazio"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 41,
+    "fields": {
+        "name": "Getafe CF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 42,
+    "fields": {
+        "name": "Tigres U.A.N.L."
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 43,
+    "fields": {
+        "name": "Torino"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 44,
+    "fields": {
+        "name": "Olympique de Marseille"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 45,
+    "fields": {
+        "name": "Nîmes Olympique"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 46,
+    "fields": {
+        "name": "Villarreal CF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 47,
+    "fields": {
+        "name": "Valencia CF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 48,
+    "fields": {
+        "name": "OGC Nice"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 49,
+    "fields": {
+        "name": "TSG 1899 Hoffenheim"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 50,
+    "fields": {
+        "name": "FC Red Bull Salzburg"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 51,
+    "fields": {
+        "name": "Kasimpaşa SK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 52,
+    "fields": {
+        "name": "Beijing Guoan"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 53,
+    "fields": {
+        "name": "Al Nassr"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 54,
+    "fields": {
+        "name": "SV Werder Bremen"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 55,
+    "fields": {
+        "name": "Roma"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 56,
+    "fields": {
+        "name": "West Ham United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 57,
+    "fields": {
+        "name": "Udinese"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 58,
+    "fields": {
+        "name": "PSV"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 59,
+    "fields": {
+        "name": "Everton"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 60,
+    "fields": {
+        "name": "Racing Club"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 61,
+    "fields": {
+        "name": "Beşiktaş JK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 62,
+    "fields": {
+        "name": "Medipol Başakşehir FK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 63,
+    "fields": {
+        "name": "Fiorentina"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 64,
+    "fields": {
+        "name": "Guangzhou R&F FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 65,
+    "fields": {
+        "name": "Athletic Club"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 66,
+    "fields": {
+        "name": "Girona FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 67,
+    "fields": {
+        "name": "FC København"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 68,
+    "fields": {
+        "name": "FC Dynamo Kyiv"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 69,
+    "fields": {
+        "name": "Buenos Aires"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 70,
+    "fields": {
+        "name": "Jiangsu Suning FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 71,
+    "fields": {
+        "name": "Burnley"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 72,
+    "fields": {
+        "name": "D.C. United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 73,
+    "fields": {
+        "name": "Nagoya Grampus"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 74,
+    "fields": {
+        "name": "Real Betis"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 75,
+    "fields": {
+        "name": "Real Sociedad"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 76,
+    "fields": {
+        "name": "Pachuca"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 77,
+    "fields": {
+        "name": "Crystal Palace"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 78,
+    "fields": {
+        "name": "1. FC Köln"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 79,
+    "fields": {
+        "name": "RCD Espanyol"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 80,
+    "fields": {
+        "name": "Bournemouth"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 81,
+    "fields": {
+        "name": "Stade Rennais FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 82,
+    "fields": {
+        "name": "Colorado Rapids"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 83,
+    "fields": {
+        "name": "Wolverhampton Wanderers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 84,
+    "fields": {
+        "name": "Guangzhou Evergrande Taobao"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 85,
+    "fields": {
+        "name": "River Plate"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 86,
+    "fields": {
+        "name": "Atlético Nacional"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 87,
+    "fields": {
+        "name": "Al Hilal"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 88,
+    "fields": {
+        "name": "AS Monaco Football Club SA"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 89,
+    "fields": {
+        "name": "Montpellier Hérault SC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 90,
+    "fields": {
+        "name": "Dalian Yifang FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 91,
+    "fields": {
+        "name": "Shanghai SIPG FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 92,
+    "fields": {
+        "name": "Rangers FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 93,
+    "fields": {
+        "name": "Atlanta United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 94,
+    "fields": {
+        "name": "PAOK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 95,
+    "fields": {
+        "name": "Brescia"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 96,
+    "fields": {
+        "name": "Trabzonspor"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 97,
+    "fields": {
+        "name": "Universidad Católica"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 98,
+    "fields": {
+        "name": "Leeds United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 99,
+    "fields": {
+        "name": "AS Saint-Étienne"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 100,
+    "fields": {
+        "name": "Junior FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 101,
+    "fields": {
+        "name": "Club América"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 102,
+    "fields": {
+        "name": "Leicester City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 103,
+    "fields": {
+        "name": "Slavia Praha"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 104,
+    "fields": {
+        "name": "Tianjin Quanjian FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 105,
+    "fields": {
+        "name": "Independiente Medellín"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 106,
+    "fields": {
+        "name": "Lokomotiv Moscow"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 107,
+    "fields": {
+        "name": "Club Brugge KV"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 108,
+    "fields": {
+        "name": "Al Taawoun"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 109,
+    "fields": {
+        "name": "Hull City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 110,
+    "fields": {
+        "name": "Newcastle United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 111,
+    "fields": {
+        "name": "Fenerbahçe SK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 112,
+    "fields": {
+        "name": "Paris FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 113,
+    "fields": {
+        "name": "Toronto FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 114,
+    "fields": {
+        "name": "FC Schalke 04"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 115,
+    "fields": {
+        "name": "Sassuolo"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 116,
+    "fields": {
+        "name": "CD Viñazur"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 117,
+    "fields": {
+        "name": "Deportes Tolima"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 118,
+    "fields": {
+        "name": "Jeonbuk Hyundai Motors"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 119,
+    "fields": {
+        "name": "ADO Den Haag"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 120,
+    "fields": {
+        "name": "SPAL"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 121,
+    "fields": {
+        "name": "Shanghai Greenland Shenhua FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 122,
+    "fields": {
+        "name": "Club Tijuana"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 123,
+    "fields": {
+        "name": "VfB Stuttgart"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 124,
+    "fields": {
+        "name": "Aston Villa"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 125,
+    "fields": {
+        "name": "Orlando City Soccer Club"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 126,
+    "fields": {
+        "name": "Parma"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 127,
+    "fields": {
+        "name": "VfL Wolfsburg"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 128,
+    "fields": {
+        "name": "Celtic"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 129,
+    "fields": {
+        "name": "Neuchâtel Xamax"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 130,
+    "fields": {
+        "name": "SK Brann"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 131,
+    "fields": {
+        "name": "Norwich City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 132,
+    "fields": {
+        "name": "Stade Brestois 29"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 133,
+    "fields": {
+        "name": "FC Nantes"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 134,
+    "fields": {
+        "name": "Watford"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 135,
+    "fields": {
+        "name": "Brentford"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 136,
+    "fields": {
+        "name": "San Jose Earthquakes"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 137,
+    "fields": {
+        "name": "Al Ittihad"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 138,
+    "fields": {
+        "name": "BSC Young Boys"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 139,
+    "fields": {
+        "name": "Shakhtar Donetsk"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 140,
+    "fields": {
+        "name": "Portland Timbers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 141,
+    "fields": {
+        "name": "Luton Town"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 142,
+    "fields": {
+        "name": "Al Ahli"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 143,
+    "fields": {
+        "name": "Angers SCO"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 144,
+    "fields": {
+        "name": "Sunderland"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 145,
+    "fields": {
+        "name": "Impact Montréal"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 146,
+    "fields": {
+        "name": "Sheffield United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 147,
+    "fields": {
+        "name": "Piast Gliwice"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 148,
+    "fields": {
+        "name": "SV Wehen-Wiesbaden"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 149,
+    "fields": {
+        "name": "Granada CF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 150,
+    "fields": {
+        "name": "América de Cali"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 151,
+    "fields": {
+        "name": "Vitesse"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 152,
+    "fields": {
+        "name": "Genoa"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 153,
+    "fields": {
+        "name": "Al Shabab"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 154,
+    "fields": {
+        "name": "Defensa y Justicia"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 155,
+    "fields": {
+        "name": "Derby County"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 156,
+    "fields": {
+        "name": "New York City FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 157,
+    "fields": {
+        "name": "Chicago Fire Soccer Club"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 158,
+    "fields": {
+        "name": "Swansea City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 159,
+    "fields": {
+        "name": "Melbourne Victory"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 160,
+    "fields": {
+        "name": "Newcastle Jets"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 161,
+    "fields": {
+        "name": "Al Fateh"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 162,
+    "fields": {
+        "name": "Monterrey"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 163,
+    "fields": {
+        "name": "Portsmouth"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 164,
+    "fields": {
+        "name": "FC Girondins de Bordeaux"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 165,
+    "fields": {
+        "name": "FC Augsburg"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 166,
+    "fields": {
+        "name": "Wigan Athletic"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 167,
+    "fields": {
+        "name": "RSC Anderlecht"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 168,
+    "fields": {
+        "name": "West Bromwich Albion"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 169,
+    "fields": {
+        "name": "Cagliari"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 170,
+    "fields": {
+        "name": "SD Eibar"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 171,
+    "fields": {
+        "name": "Hamburger SV"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 172,
+    "fields": {
+        "name": "Fortuna Düsseldorf"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 173,
+    "fields": {
+        "name": "Cádiz CF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 174,
+    "fields": {
+        "name": "Standard de Liège"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 175,
+    "fields": {
+        "name": "Spartak Moscow"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 176,
+    "fields": {
+        "name": "Chievo Verona"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 177,
+    "fields": {
+        "name": "Southampton"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 178,
+    "fields": {
+        "name": "Sheffield Wednesday"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 179,
+    "fields": {
+        "name": "Barnsley"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 180,
+    "fields": {
+        "name": "Fulham"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 181,
+    "fields": {
+        "name": "SC Braga"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 182,
+    "fields": {
+        "name": "CSKA Moscow"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 183,
+    "fields": {
+        "name": "Hertha BSC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 184,
+    "fields": {
+        "name": "Lincoln City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 185,
+    "fields": {
+        "name": "Western Sydney Wanderers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 186,
+    "fields": {
+        "name": "Shandong Luneng Taishan"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 187,
+    "fields": {
+        "name": "Sport-Club Freiburg"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 188,
+    "fields": {
+        "name": "KV Kortrijk"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 189,
+    "fields": {
+        "name": "Rosenborg BK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 190,
+    "fields": {
+        "name": "BK Häcken"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 191,
+    "fields": {
+        "name": "Huddersfield Town"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 192,
+    "fields": {
+        "name": "Levante UD"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 193,
+    "fields": {
+        "name": "D. Alavés"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 194,
+    "fields": {
+        "name": "Brighton & Hove Albion"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 195,
+    "fields": {
+        "name": "Independiente"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 196,
+    "fields": {
+        "name": "KRC Genk"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 197,
+    "fields": {
+        "name": "Empoli"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 198,
+    "fields": {
+        "name": "Górnik Zabrze"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 199,
+    "fields": {
+        "name": "Tianjin TEDA FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 200,
+    "fields": {
+        "name": "Wellington Phoenix"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 201,
+    "fields": {
+        "name": "Peterborough United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 202,
+    "fields": {
+        "name": "Jagiellonia Białystok"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 203,
+    "fields": {
+        "name": "Stoke City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 204,
+    "fields": {
+        "name": "Cruz Azul"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 205,
+    "fields": {
+        "name": "Santos Laguna"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 206,
+    "fields": {
+        "name": "New York Red Bulls"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 207,
+    "fields": {
+        "name": "Wisła Kraków"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 208,
+    "fields": {
+        "name": "UD Las Palmas"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 209,
+    "fields": {
+        "name": "Cardiff City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 210,
+    "fields": {
+        "name": "KAA Gent"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 211,
+    "fields": {
+        "name": "Amiens SC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 212,
+    "fields": {
+        "name": "Philadelphia Union"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 213,
+    "fields": {
+        "name": "Chongqing Lifan FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 214,
+    "fields": {
+        "name": "Changchun Yatai FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 215,
+    "fields": {
+        "name": "CD Leganés"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 216,
+    "fields": {
+        "name": "Charlton Athletic"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 217,
+    "fields": {
+        "name": "Seattle Sounders FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 218,
+    "fields": {
+        "name": "AZ"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 219,
+    "fields": {
+        "name": "Chaves"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 220,
+    "fields": {
+        "name": "Olympiacos CFP"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 221,
+    "fields": {
+        "name": "Dundalk"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 222,
+    "fields": {
+        "name": "Real Salt Lake"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 223,
+    "fields": {
+        "name": "Deportivo Cali"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 224,
+    "fields": {
+        "name": "Ettifaq FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 225,
+    "fields": {
+        "name": "SV Zulte-Waregem"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 226,
+    "fields": {
+        "name": "Portimonense SC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 227,
+    "fields": {
+        "name": "Columbus Crew SC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 228,
+    "fields": {
+        "name": "FC Basel"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 229,
+    "fields": {
+        "name": "Lechia Gdańsk"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 230,
+    "fields": {
+        "name": "TSV Hartberg"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 231,
+    "fields": {
+        "name": "New England Revolution"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 232,
+    "fields": {
+        "name": "Dijon FCO"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 233,
+    "fields": {
+        "name": "Rayo Vallecano"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 234,
+    "fields": {
+        "name": "VfL Osnabrück"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 235,
+    "fields": {
+        "name": "RC Deportivo"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 236,
+    "fields": {
+        "name": "Stade de Reims"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 237,
+    "fields": {
+        "name": "Hebei China Fortune FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 238,
+    "fields": {
+        "name": "Beijing Renhe"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 239,
+    "fields": {
+        "name": "Football Club de Metz"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 240,
+    "fields": {
+        "name": "FC Midtjylland"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 241,
+    "fields": {
+        "name": "Bury"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 242,
+    "fields": {
+        "name": "Tranmere Rovers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 243,
+    "fields": {
+        "name": "Sporting Kansas City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 244,
+    "fields": {
+        "name": "Vancouver Whitecaps FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 245,
+    "fields": {
+        "name": "Mansfield Town"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 246,
+    "fields": {
+        "name": "Vitória Guimarães"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 247,
+    "fields": {
+        "name": "Atiker Konyaspor"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 248,
+    "fields": {
+        "name": "Athlétic Club Ajaccio"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 249,
+    "fields": {
+        "name": "CD Palestino"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 250,
+    "fields": {
+        "name": "Minnesota United FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 251,
+    "fields": {
+        "name": "VfL Bochum 1848"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 252,
+    "fields": {
+        "name": "Al Raed"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 253,
+    "fields": {
+        "name": "Independiente Santa Fe"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 254,
+    "fields": {
+        "name": "1. FC Nürnberg"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 255,
+    "fields": {
+        "name": "Örebro SK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 256,
+    "fields": {
+        "name": "GNK Dinamo Zagreb"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 257,
+    "fields": {
+        "name": "Vélez Sarsfield"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 258,
+    "fields": {
+        "name": "Bologna"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 259,
+    "fields": {
+        "name": "AJ Auxerre"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 260,
+    "fields": {
+        "name": "Pohang Steelers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 261,
+    "fields": {
+        "name": "MKE Ankaragücü"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 262,
+    "fields": {
+        "name": "1. FSV Mainz 05"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 263,
+    "fields": {
+        "name": "Rio Ave FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 264,
+    "fields": {
+        "name": "Göztepe SK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 265,
+    "fields": {
+        "name": "Atlético Tucumán"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 266,
+    "fields": {
+        "name": "CD Everton de Viña del Mar"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 267,
+    "fields": {
+        "name": "Houston Dynamo"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 268,
+    "fields": {
+        "name": "San Lorenzo de Almagro"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 269,
+    "fields": {
+        "name": "Kaizer Chiefs"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 270,
+    "fields": {
+        "name": "Club Atlas"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 271,
+    "fields": {
+        "name": "Akhisar Belediyespor"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 272,
+    "fields": {
+        "name": "Tondela"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 273,
+    "fields": {
+        "name": "Toulouse Football Club"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 274,
+    "fields": {
+        "name": "Godoy Cruz"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 275,
+    "fields": {
+        "name": "Stade Malherbe Caen"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 276,
+    "fields": {
+        "name": "Hannover 96"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 277,
+    "fields": {
+        "name": "Querétaro"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 278,
+    "fields": {
+        "name": "Frosinone"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 279,
+    "fields": {
+        "name": "R. Valladolid CF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 280,
+    "fields": {
+        "name": "Club Atlético Huracán"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 281,
+    "fields": {
+        "name": "Club Atlético Lanús"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 282,
+    "fields": {
+        "name": "Molde FK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 283,
+    "fields": {
+        "name": "AIK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 284,
+    "fields": {
+        "name": "Boavista FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 285,
+    "fields": {
+        "name": "Legia Warszawa"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 286,
+    "fields": {
+        "name": "Benevento"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 287,
+    "fields": {
+        "name": "Evkur Yeni Malatyaspor"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 288,
+    "fields": {
+        "name": "Bristol City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 289,
+    "fields": {
+        "name": "FC Zürich"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 290,
+    "fields": {
+        "name": "KSV Cercle Brugge"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 291,
+    "fields": {
+        "name": "SSV Jahn Regensburg"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 292,
+    "fields": {
+        "name": "Puebla"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 293,
+    "fields": {
+        "name": "Nottingham Forest"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 294,
+    "fields": {
+        "name": "Birmingham City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 295,
+    "fields": {
+        "name": "SC Heerenveen"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 296,
+    "fields": {
+        "name": "R. Zaragoza"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 297,
+    "fields": {
+        "name": "RCD Mallorca"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 298,
+    "fields": {
+        "name": "FC Seoul"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 299,
+    "fields": {
+        "name": "Queens Park Rangers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 300,
+    "fields": {
+        "name": "Club Atlético Banfield"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 301,
+    "fields": {
+        "name": "Deportivo Toluca"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 302,
+    "fields": {
+        "name": "Guizhou Hengfeng FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 303,
+    "fields": {
+        "name": "Málaga CF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 304,
+    "fields": {
+        "name": "FC Groningen"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 305,
+    "fields": {
+        "name": "Al Wehda"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 306,
+    "fields": {
+        "name": "En Avant de Guingamp"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 307,
+    "fields": {
+        "name": "Viktoria Plzeň"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 308,
+    "fields": {
+        "name": "Córdoba CF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 309,
+    "fields": {
+        "name": "CD Huachipato"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 310,
+    "fields": {
+        "name": "AEK Athens"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 311,
+    "fields": {
+        "name": "SpVgg Unterhaching"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 312,
+    "fields": {
+        "name": "Grasshopper Club Zürich"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 313,
+    "fields": {
+        "name": "Tromsø IL"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 314,
+    "fields": {
+        "name": "Venezia"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 315,
+    "fields": {
+        "name": "Millwall"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 316,
+    "fields": {
+        "name": "Albacete Bpie"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 317,
+    "fields": {
+        "name": "Incheon United FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 318,
+    "fields": {
+        "name": "Suwon Samsung Bluewings"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 319,
+    "fields": {
+        "name": "Hokkaido Consadole Sapporo"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 320,
+    "fields": {
+        "name": "Holstein Kiel"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 321,
+    "fields": {
+        "name": "Willem II"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 322,
+    "fields": {
+        "name": "Antalyaspor"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 323,
+    "fields": {
+        "name": "Melbourne City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 324,
+    "fields": {
+        "name": "Middlesbrough"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 325,
+    "fields": {
+        "name": "SD Huesca"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 326,
+    "fields": {
+        "name": "U.N.A.M."
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 327,
+    "fields": {
+        "name": "R. Sporting"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 328,
+    "fields": {
+        "name": "Alanyaspor"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 329,
+    "fields": {
+        "name": "Colón de Santa Fe"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 330,
+    "fields": {
+        "name": "Çaykur Rizespor"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 331,
+    "fields": {
+        "name": "Kawasaki Frontale"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 332,
+    "fields": {
+        "name": "Perugia"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 333,
+    "fields": {
+        "name": "Ulsan Hyundai Horang-i"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 334,
+    "fields": {
+        "name": "Sydney FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 335,
+    "fields": {
+        "name": "FC Ingolstadt 04"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 336,
+    "fields": {
+        "name": "Daegu FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 337,
+    "fields": {
+        "name": "CF Os Belenenses"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 338,
+    "fields": {
+        "name": "Club Atlético Talleres"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 339,
+    "fields": {
+        "name": "UD Almería"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 340,
+    "fields": {
+        "name": "Salerno"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 341,
+    "fields": {
+        "name": "VVV-Venlo"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 342,
+    "fields": {
+        "name": "FC Erzgebirge Aue"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 343,
+    "fields": {
+        "name": "Östersunds FK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 344,
+    "fields": {
+        "name": "Gangwon FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 345,
+    "fields": {
+        "name": "Eintracht Braunschweig"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 346,
+    "fields": {
+        "name": "Heart of Midlothian"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 347,
+    "fields": {
+        "name": "Chamois Niortais Football Club"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 348,
+    "fields": {
+        "name": "Unión de Santa Fe"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 349,
+    "fields": {
+        "name": "Pescara"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 350,
+    "fields": {
+        "name": "FC Thun"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 351,
+    "fields": {
+        "name": "FC Dallas"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 352,
+    "fields": {
+        "name": "Sint-Truidense VV"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 353,
+    "fields": {
+        "name": "Heracles Almelo"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 354,
+    "fields": {
+        "name": "Cerezo Osaka"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 355,
+    "fields": {
+        "name": "Racing Club de Lens"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 356,
+    "fields": {
+        "name": "1. FC Heidenheim 1846"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 357,
+    "fields": {
+        "name": "Al-Hazem FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 358,
+    "fields": {
+        "name": "KFC Uerdingen 05"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 359,
+    "fields": {
+        "name": "Club Atlético Aldosivi"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 360,
+    "fields": {
+        "name": "Deportivo Pasto"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 361,
+    "fields": {
+        "name": "Cittadella"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 362,
+    "fields": {
+        "name": "Lech Poznań"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 363,
+    "fields": {
+        "name": "ESTAC Troyes"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 364,
+    "fields": {
+        "name": "SC Paderborn 07"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 365,
+    "fields": {
+        "name": "LASK Linz"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 366,
+    "fields": {
+        "name": "FK Austria Wien"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 367,
+    "fields": {
+        "name": "Yokohama F・Marinos"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 368,
+    "fields": {
+        "name": "Foggia"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 369,
+    "fields": {
+        "name": "Royal Antwerp FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 370,
+    "fields": {
+        "name": "Büyükşehir Belediye Erzurumspor"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 371,
+    "fields": {
+        "name": "Perth Glory"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 372,
+    "fields": {
+        "name": "Ipswich Town"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 373,
+    "fields": {
+        "name": "FC Sion"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 374,
+    "fields": {
+        "name": "Wisła Płock"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 375,
+    "fields": {
+        "name": "Adelaide United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 376,
+    "fields": {
+        "name": "Júbilo Iwata"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 377,
+    "fields": {
+        "name": "1. FC Union Berlin"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 378,
+    "fields": {
+        "name": "CD Tenerife"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 379,
+    "fields": {
+        "name": "Sangju Sangmu FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 380,
+    "fields": {
+        "name": "CD Numancia"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 381,
+    "fields": {
+        "name": "Kilmarnock"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 382,
+    "fields": {
+        "name": "Clermont Foot 63"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 383,
+    "fields": {
+        "name": "Kashima Antlers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 384,
+    "fields": {
+        "name": "Orlando Pirates"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 385,
+    "fields": {
+        "name": "Accrington Stanley"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 386,
+    "fields": {
+        "name": "Walsall"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 387,
+    "fields": {
+        "name": "Exeter City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 388,
+    "fields": {
+        "name": "Milton Keynes Dons"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 389,
+    "fields": {
+        "name": "Guadalajara"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 390,
+    "fields": {
+        "name": "Sparta Praha"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 391,
+    "fields": {
+        "name": "KV Oostende"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 392,
+    "fields": {
+        "name": "Club Necaxa"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 393,
+    "fields": {
+        "name": "Vitória Setúbal"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 394,
+    "fields": {
+        "name": "Argentinos Juniors"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 395,
+    "fields": {
+        "name": "Palermo"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 396,
+    "fields": {
+        "name": "Panathinaikos FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 397,
+    "fields": {
+        "name": "R. Oviedo"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 398,
+    "fields": {
+        "name": "Rosario Central"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 399,
+    "fields": {
+        "name": "SK Rapid Wien"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 400,
+    "fields": {
+        "name": "CD Universidad de Concepción"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 401,
+    "fields": {
+        "name": "Bursaspor"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 402,
+    "fields": {
+        "name": "Reading"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 403,
+    "fields": {
+        "name": "Urawa Red Diamonds"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 404,
+    "fields": {
+        "name": "Desportivo Aves"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 405,
+    "fields": {
+        "name": "Monarcas Morelia"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 406,
+    "fields": {
+        "name": "Brøndby IF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 407,
+    "fields": {
+        "name": "Once Caldas"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 408,
+    "fields": {
+        "name": "Kayserispor"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 409,
+    "fields": {
+        "name": "Odds BK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 410,
+    "fields": {
+        "name": "Crotone"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 411,
+    "fields": {
+        "name": "Śląsk Wrocław"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 412,
+    "fields": {
+        "name": "Wycombe Wanderers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 413,
+    "fields": {
+        "name": "AFC Wimbledon"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 414,
+    "fields": {
+        "name": "Livorno"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 415,
+    "fields": {
+        "name": "Sivasspor"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 416,
+    "fields": {
+        "name": "Hellas Verona"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 417,
+    "fields": {
+        "name": "Universidad de Chile"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 418,
+    "fields": {
+        "name": "IF Elfsborg"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 419,
+    "fields": {
+        "name": "Estudiantes de La Plata"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 420,
+    "fields": {
+        "name": "Henan Jianye FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 421,
+    "fields": {
+        "name": "Moreirense FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 422,
+    "fields": {
+        "name": "Belgrano de Córdoba"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 423,
+    "fields": {
+        "name": "Gimnasia y Esgrima La Plata"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 424,
+    "fields": {
+        "name": "Brisbane Roar"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 425,
+    "fields": {
+        "name": "Aberdeen"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 426,
+    "fields": {
+        "name": "Sanfrecce Hiroshima"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 427,
+    "fields": {
+        "name": "NAC Breda"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 428,
+    "fields": {
+        "name": "FC Utrecht"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 429,
+    "fields": {
+        "name": "CD Feirense"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 430,
+    "fields": {
+        "name": "Preston North End"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 431,
+    "fields": {
+        "name": "Millonarios FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 432,
+    "fields": {
+        "name": "CS Marítimo"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 433,
+    "fields": {
+        "name": "SK Sturm Graz"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 434,
+    "fields": {
+        "name": "Havre Athletic Club"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 435,
+    "fields": {
+        "name": "SV Darmstadt 98"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 436,
+    "fields": {
+        "name": "Patronato"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 437,
+    "fields": {
+        "name": "Lecce"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 438,
+    "fields": {
+        "name": "Stabæk Fotball"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 439,
+    "fields": {
+        "name": "Padova"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 440,
+    "fields": {
+        "name": "Ascoli"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 441,
+    "fields": {
+        "name": "Cremona"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 442,
+    "fields": {
+        "name": "Forest Green Rovers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 443,
+    "fields": {
+        "name": "SC Preußen Münster"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 444,
+    "fields": {
+        "name": "Carpi"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 445,
+    "fields": {
+        "name": "Sporting Charleroi"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 446,
+    "fields": {
+        "name": "SG Dynamo Dresden"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 447,
+    "fields": {
+        "name": "FC Hansa Rostock"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 448,
+    "fields": {
+        "name": "FC Carl Zeiss Jena"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 449,
+    "fields": {
+        "name": "Tiburones Rojos de Veracruz"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 450,
+    "fields": {
+        "name": "PEC Zwolle"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 451,
+    "fields": {
+        "name": "CD Lugo"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 452,
+    "fields": {
+        "name": "Kashiwa Reysol"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 453,
+    "fields": {
+        "name": "CA Osasuna"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 454,
+    "fields": {
+        "name": "DSC Arminia Bielefeld"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 455,
+    "fields": {
+        "name": "Sporting Lokeren"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 456,
+    "fields": {
+        "name": "Aalborg BK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 457,
+    "fields": {
+        "name": "Elche CF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 458,
+    "fields": {
+        "name": "Club Atlético Tigre"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 459,
+    "fields": {
+        "name": "GyeongNam FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 460,
+    "fields": {
+        "name": "Funchal"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 461,
+    "fields": {
+        "name": "Vegalta Sendai"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 462,
+    "fields": {
+        "name": "St. Mirren"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 463,
+    "fields": {
+        "name": "F.C. Tokyo"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 464,
+    "fields": {
+        "name": "Malmö FF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 465,
+    "fields": {
+        "name": "Al Qadisiyah"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 466,
+    "fields": {
+        "name": "KAS Eupen"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 467,
+    "fields": {
+        "name": "Newell's Old Boys"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 468,
+    "fields": {
+        "name": "FC Lorient"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 469,
+    "fields": {
+        "name": "MSV Duisburg"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 470,
+    "fields": {
+        "name": "San Martín"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 471,
+    "fields": {
+        "name": "FC St. Pauli"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 472,
+    "fields": {
+        "name": "AD Alcorcón"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 473,
+    "fields": {
+        "name": "CF Reus"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 474,
+    "fields": {
+        "name": "Djurgårdens IF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 475,
+    "fields": {
+        "name": "Nàstic"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 476,
+    "fields": {
+        "name": "Fortuna Sittard"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 477,
+    "fields": {
+        "name": "Blackburn Rovers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 478,
+    "fields": {
+        "name": "Al Fayha"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 479,
+    "fields": {
+        "name": "Southend United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 480,
+    "fields": {
+        "name": "FC St. Gallen"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 481,
+    "fields": {
+        "name": "La Spezia"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 482,
+    "fields": {
+        "name": "Patriotas Boyacá FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 483,
+    "fields": {
+        "name": "Deportes Iquique"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 484,
+    "fields": {
+        "name": "Lobos B.U.A.P."
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 485,
+    "fields": {
+        "name": "Kalmar FF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 486,
+    "fields": {
+        "name": "Rayo Majadahonda"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 487,
+    "fields": {
+        "name": "Aarhus GF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 488,
+    "fields": {
+        "name": "Hibernian"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 489,
+    "fields": {
+        "name": "1. FC Magdeburg"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 490,
+    "fields": {
+        "name": "Shimizu S-Pulse"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 491,
+    "fields": {
+        "name": "FC Lugano"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 492,
+    "fields": {
+        "name": "Odense Boldklub"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 493,
+    "fields": {
+        "name": "Excelsior"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 494,
+    "fields": {
+        "name": "Hammarby IF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 495,
+    "fields": {
+        "name": "Al Faisaly"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 496,
+    "fields": {
+        "name": "SV Sandhausen"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 497,
+    "fields": {
+        "name": "Strømsgodset IF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 498,
+    "fields": {
+        "name": "IFK Norrköping"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 499,
+    "fields": {
+        "name": "Waasland-Beveren"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 500,
+    "fields": {
+        "name": "Atlético Bucaramanga"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 501,
+    "fields": {
+        "name": "Rionegro Águilas"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 502,
+    "fields": {
+        "name": "Al Batin"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 503,
+    "fields": {
+        "name": "Atlético Huila"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 504,
+    "fields": {
+        "name": "Gamba Osaka"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 505,
+    "fields": {
+        "name": "FC Nordsjælland"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 506,
+    "fields": {
+        "name": "AS Nancy Lorraine"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 507,
+    "fields": {
+        "name": "Santa Clara"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 508,
+    "fields": {
+        "name": "Ohod Club"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 509,
+    "fields": {
+        "name": "Red Star FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 510,
+    "fields": {
+        "name": "Cambridge United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 511,
+    "fields": {
+        "name": "Wolfsberger AC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 512,
+    "fields": {
+        "name": "AC Horsens"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 513,
+    "fields": {
+        "name": "V-Varen Nagasaki"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 514,
+    "fields": {
+        "name": "FK Bodø/Glimt"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 515,
+    "fields": {
+        "name": "FK Haugesund"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 516,
+    "fields": {
+        "name": "SpVgg Greuther Fuerth"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 517,
+    "fields": {
+        "name": "San Luis de Quillota"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 518,
+    "fields": {
+        "name": "Bolton Wanderers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 519,
+    "fields": {
+        "name": "Valenciennes FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 520,
+    "fields": {
+        "name": "1. FC Kaiserslautern"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 521,
+    "fields": {
+        "name": "Cracovia"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 522,
+    "fields": {
+        "name": "La Berrichonne de Châteauroux"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 523,
+    "fields": {
+        "name": "Alianza Petrolera"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 524,
+    "fields": {
+        "name": "Pogoń Szczecin"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 525,
+    "fields": {
+        "name": "Cosenza Calcio"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 526,
+    "fields": {
+        "name": "Unión Española"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 527,
+    "fields": {
+        "name": "Jeju United FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 528,
+    "fields": {
+        "name": "Central Coast Mariners"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 529,
+    "fields": {
+        "name": "IFK Göteborg"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 530,
+    "fields": {
+        "name": "Motherwell"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 531,
+    "fields": {
+        "name": "Jeonnam Dragons"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 532,
+    "fields": {
+        "name": "FC Sochaux-Montbéliard"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 533,
+    "fields": {
+        "name": "Club Deportes Temuco"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 534,
+    "fields": {
+        "name": "CD Antofagasta"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 535,
+    "fields": {
+        "name": "Hallescher FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 536,
+    "fields": {
+        "name": "Oxford United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 537,
+    "fields": {
+        "name": "Extremadura UD"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 538,
+    "fields": {
+        "name": "SønderjyskE"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 539,
+    "fields": {
+        "name": "Bohemian FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 540,
+    "fields": {
+        "name": "Unión La Calera"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 541,
+    "fields": {
+        "name": "De Graafschap"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 542,
+    "fields": {
+        "name": "Gazélec Football Club Ajaccio"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 543,
+    "fields": {
+        "name": "Fleetwood Town"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 544,
+    "fields": {
+        "name": "Audax Italiano"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 545,
+    "fields": {
+        "name": "CD O'Higgins"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 546,
+    "fields": {
+        "name": "Grenoble Foot 38"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 547,
+    "fields": {
+        "name": "Scunthorpe United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 548,
+    "fields": {
+        "name": "VfR Aalen"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 549,
+    "fields": {
+        "name": "Plymouth Argyle"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 550,
+    "fields": {
+        "name": "SC Fortuna Köln"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 551,
+    "fields": {
+        "name": "La Equidad"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 552,
+    "fields": {
+        "name": "Shonan Bellmare"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 553,
+    "fields": {
+        "name": "Burton Albion"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 554,
+    "fields": {
+        "name": "FC Luzern"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 555,
+    "fields": {
+        "name": "Jaguares Fútbol Club"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 556,
+    "fields": {
+        "name": "San Martín de Tucumán"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 557,
+    "fields": {
+        "name": "Cork City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 558,
+    "fields": {
+        "name": "Vålerenga Fotball"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 559,
+    "fields": {
+        "name": "Karlsruher SC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 560,
+    "fields": {
+        "name": "FC Admira Wacker Mödling"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 561,
+    "fields": {
+        "name": "Arka Gdynia"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 562,
+    "fields": {
+        "name": "FC Emmen"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 563,
+    "fields": {
+        "name": "Dundee FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 564,
+    "fields": {
+        "name": "Zagłębie Lubin"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 565,
+    "fields": {
+        "name": "Rotherham United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 566,
+    "fields": {
+        "name": "Royal Excel Mouscron"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 567,
+    "fields": {
+        "name": "Randers FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 568,
+    "fields": {
+        "name": "Envigado FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 569,
+    "fields": {
+        "name": "Hobro IK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 570,
+    "fields": {
+        "name": "Lillestrøm SK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 571,
+    "fields": {
+        "name": "Sarpsborg 08 FF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 572,
+    "fields": {
+        "name": "FC Würzburger Kickers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 573,
+    "fields": {
+        "name": "Waterford FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 574,
+    "fields": {
+        "name": "Bradford City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 575,
+    "fields": {
+        "name": "St. Johnstone FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 576,
+    "fields": {
+        "name": "Newport County"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 577,
+    "fields": {
+        "name": "Coventry City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 578,
+    "fields": {
+        "name": "Gillingham"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 579,
+    "fields": {
+        "name": "Stevenage"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 580,
+    "fields": {
+        "name": "US Orléans Loiret Football"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 581,
+    "fields": {
+        "name": "Shrewsbury"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 582,
+    "fields": {
+        "name": "Crawley Town"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 583,
+    "fields": {
+        "name": "TSV 1860 München"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 584,
+    "fields": {
+        "name": "Korona Kielce"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 585,
+    "fields": {
+        "name": "SG Sonnenhof Großaspach"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 586,
+    "fields": {
+        "name": "HJK Helsinki"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 587,
+    "fields": {
+        "name": "SV Mattersburg"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 588,
+    "fields": {
+        "name": "Bristol Rovers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 589,
+    "fields": {
+        "name": "Curicó Unido"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 590,
+    "fields": {
+        "name": "SCR Altach"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 591,
+    "fields": {
+        "name": "GIF Sundsvall"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 592,
+    "fields": {
+        "name": "FC Wacker Innsbruck"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 593,
+    "fields": {
+        "name": "Hamilton Academical FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 594,
+    "fields": {
+        "name": "Zagłębie Sosnowiec"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 595,
+    "fields": {
+        "name": "Esbjerg fB"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 596,
+    "fields": {
+        "name": "Doncaster Rovers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 597,
+    "fields": {
+        "name": "Rochdale"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 598,
+    "fields": {
+        "name": "Blackpool"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 599,
+    "fields": {
+        "name": "Oldham Athletic"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 600,
+    "fields": {
+        "name": "Ranheim Fotball"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 601,
+    "fields": {
+        "name": "FSV Zwickau"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 602,
+    "fields": {
+        "name": "Miedź Legnica"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 603,
+    "fields": {
+        "name": "Kristiansund BK"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 604,
+    "fields": {
+        "name": "Vejle Boldklub"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 605,
+    "fields": {
+        "name": "Colchester United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 606,
+    "fields": {
+        "name": "IK Sirius"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 607,
+    "fields": {
+        "name": "Boyacá Chicó FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 608,
+    "fields": {
+        "name": "Shamrock Rovers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 609,
+    "fields": {
+        "name": "Notts County"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 610,
+    "fields": {
+        "name": "IK Start"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 611,
+    "fields": {
+        "name": "Grimsby Town"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 612,
+    "fields": {
+        "name": "Swindon Town"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 613,
+    "fields": {
+        "name": "Vendsyssel FF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 614,
+    "fields": {
+        "name": "Livingston FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 615,
+    "fields": {
+        "name": "SV Meppen"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 616,
+    "fields": {
+        "name": "Northampton Town"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 617,
+    "fields": {
+        "name": "VfL Sportfreunde Lotte"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 618,
+    "fields": {
+        "name": "Cheltenham Town"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 619,
+    "fields": {
+        "name": "SKN St. Pölten"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 620,
+    "fields": {
+        "name": "Sandefjord Fotball"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 621,
+    "fields": {
+        "name": "St. Patrick's Athletic"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 622,
+    "fields": {
+        "name": "Carlisle United"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 623,
+    "fields": {
+        "name": "Port Vale"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 624,
+    "fields": {
+        "name": "FC Energie Cottbus"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 625,
+    "fields": {
+        "name": "Dalkurd FF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 626,
+    "fields": {
+        "name": "Trelleborgs FF"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 627,
+    "fields": {
+        "name": "Morecambe"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 628,
+    "fields": {
+        "name": "Leones FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 629,
+    "fields": {
+        "name": "AS Béziers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 630,
+    "fields": {
+        "name": "Yeovil Town"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 631,
+    "fields": {
+        "name": "Derry City"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 632,
+    "fields": {
+        "name": "Crewe Alexandra"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 633,
+    "fields": {
+        "name": "IF Brommapojkarna"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 634,
+    "fields": {
+        "name": "Sligo Rovers"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 635,
+    "fields": {
+        "name": "Macclesfield Town"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 636,
+    "fields": {
+        "name": "Limerick FC"
+    }
+},
+{
+    "model": "fifa.team",
+    "pk": 637,
+    "fields": {
+        "name": "Bray Wanderers"
+    }
+}
+]
