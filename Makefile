@@ -1,0 +1,8 @@
+makemigrations:
+	docker exec -it cuemby ./manage.py makemigrations
+
+migrate:
+	docker exec -it cuemby ./manage.py migrate
+
+populate_db:
+	docker exec -it cuemby ./manage.py populate_db
