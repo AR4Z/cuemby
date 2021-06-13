@@ -4,6 +4,8 @@ from fifa import serializers, models, pagination, permissions
 
 
 class TeamAPIView(generics.GenericAPIView):
+    """Api that allowes search players by team name
+    """
     pagination_class = pagination.CustomPagination
     permission_classes = (permissions.CustomPermission, )
 
@@ -23,6 +25,8 @@ class TeamAPIView(generics.GenericAPIView):
 
 
 class PlayerAPIView(generics.GenericAPIView):
+    """Api that allows search players by player name
+    """
     pagination_class = pagination.CustomPagination
     permission_classes = (permissions.CustomPermission, )
 

@@ -6,7 +6,7 @@ from fifa import models
 
 
 class Command(base.BaseCommand):
-    help = 'Command to create random data'
+    help = 'Command to fetch data from fifa 21 ultimate team api'
     FIFA_API_BASE_URL = 'https://www.easports.com/fifa/ultimate-team/api/fut/item'
 
     def handle(self, *args, **options):
@@ -60,7 +60,18 @@ class Command(base.BaseCommand):
         return obj
     
 
-    def create_player(self, name: str, position: str, nation: str, team: models.Team):
+    def create_player(self, name: str, position: str, nation: str, team: models.Team) -> models.Player:
+        """creates player if not exists in Player model
+
+        Args:
+            name (str): player's name
+            position (str): player's position
+            nation (str): player's nation
+            team (models.Team): player's team
+
+        Returns:
+            models.Player: player created
+        """
         obj, _ = models.Player.objects.get_or_create(
             name=name,
             position=position,

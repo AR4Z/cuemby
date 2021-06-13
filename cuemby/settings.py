@@ -87,7 +87,7 @@ DATABASES = {
         'HOST': os.getenv('DATABASE_HOST'),
         'PORT': os.getenv('DATABASE_PORT'),
         'TEST': {
-            'NAME': 'tests_covidalert'
+            'NAME': 'tests_cuemby'
         }
     }
 }

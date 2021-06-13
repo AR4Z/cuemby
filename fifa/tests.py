@@ -6,6 +6,8 @@ from fifa import models, serializers
 TEST_API_KEY = 'some random string'
 
 class FifaAPITests(test.APITestCase):
+    """Test general setup of fifa api
+    """
     def test_call_with_invalid_api_key(self):
         TEAM_URL = urls.reverse('team')
         response = self.client.post(TEAM_URL, {
@@ -27,6 +29,8 @@ class FifaAPITests(test.APITestCase):
 
 
 class TeamAPITests(test.APITestCase):
+    """Test setup of team api
+    """
     fixtures = ['fifa/fixtures/team.json', 'fifa/fixtures/player.json']
 
     @test.override_settings(API_KEY=TEST_API_KEY)
@@ -55,6 +59,8 @@ class TeamAPITests(test.APITestCase):
 
 
 class PlayerAPITests(test.APITestCase):
+    """test setup of player api
+    """
     fixtures = ['fifa/fixtures/team.json', 'fifa/fixtures/player.json']
 
     @test.override_settings(API_KEY=TEST_API_KEY)

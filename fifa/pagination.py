@@ -2,6 +2,8 @@ from rest_framework import response, pagination
 
 
 class CustomPagination(pagination.PageNumberPagination):
+    """Subclass for custom pagination api
+    """
     page_size = 10
     page_query_param = 'Page'
 
