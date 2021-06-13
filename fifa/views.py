@@ -1,10 +1,11 @@
-from rest_framework import views, response
+from rest_framework import generics, response
 
-from fifa import serializers
-from fifa import models
+from fifa import serializers, models, pagination
 
 
-class TeamAPIView(views.APIView):
+class TeamAPIView(generics.GenericAPIView):
+    pagination_class = pagination.CustomPagination
+
     def post(self, request):
         params = serializers.TeamParamsSerializer(data=request.data)
         params.is_valid(raise_exception=True)
@@ -13,12 +14,16 @@ class TeamAPIView(views.APIView):
         team = models.Team.objects.filter(name__icontains=team_name).first()
         players = models.Player.objects.filter(team=team)
 
-        serializer = serializers.PlayerSerializer(players, many=True)
+        page = self.paginator.paginate_queryset(players, request)
 
-        return response.Response(serializer.data)
+        serializer = serializers.PlayerSerializer(page, many=True)
+
+        return self.paginator.get_paginated_response(serializer.data)
 
 
-class PlayerAPIView(views.APIView):
+class PlayerAPIView(generics.GenericAPIView):
+    pagination_class = pagination.CustomPagination
+
     def get(self, request):
         params = serializers.PlayerParamsSerializer(data=request.query_params)
         params.is_valid(raise_exception=True)
@@ -29,7 +34,9 @@ class PlayerAPIView(views.APIView):
 
         if params.data.get('sort') == 'desc':
             players = players.order_by('-name')
+        
+        page = self.paginator.paginate_queryset(players, request)
 
-        serializer = serializers.PlayerSerializer(players, many=True)
+        serializer = serializers.PlayerSerializer(page, many=True)
 
-        return response.Response(serializer.data)
+        return self.paginator.get_paginated_response(serializer.data)
